@@ -1,0 +1,293 @@
+1618129889745	geckodriver	INFO	Listening on 127.0.0.1:50697
+1618129892861	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileaaTyx3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618129898894	Marionette	INFO	Listening on port 50705
+1618129899214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+[Parent 4596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618130083452	Marionette	INFO	Stopped listening on port 50705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+earchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130080901	Marionette	INFO	Listening on port 50802
+1618130081423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130221258	Marionette	INFO	Stopped listening on port 50802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130316417	geckodriver	INFO	Listening on 127.0.0.1:50936
+1618130319524	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileEdMdS8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130326023	Marionette	INFO	Listening on port 50944
+1618130326482	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130332330	Marionette	INFO	Stopped listening on port 50944
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 10636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130460347	geckodriver	INFO	Listening on 127.0.0.1:51024
+1618130463458	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileIfVpkW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130469858	Marionette	INFO	Listening on port 51032
+1618130469896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130476990	Marionette	INFO	Stopped listening on port 51032
+[Parent 2132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130503899	geckodriver	INFO	Listening on 127.0.0.1:51102
+1618130507002	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileojU6L1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130513236	Marionette	INFO	Listening on port 51110
+1618130513339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130519119	Marionette	INFO	Stopped listening on port 51110
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 8548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130540183	geckodriver	INFO	Listening on 127.0.0.1:51176
+1618130543306	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofile9V5yzP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130551755	Marionette	INFO	Listening on port 51185
+1618130551927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130560130	Marionette	INFO	Stopped listening on port 51185
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 8348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130723255	geckodriver	INFO	Listening on 127.0.0.1:51303
+1618130726309	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofile0opyXO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130734398	Marionette	INFO	Listening on port 51311
+1618130734798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130740247	Marionette	INFO	Stopped listening on port 51311
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 7448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130757603	geckodriver	INFO	Listening on 127.0.0.1:51378
+1618130760689	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileXuDUxE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130768773	Marionette	INFO	Listening on port 51386
+1618130769218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130775577	Marionette	INFO	Stopped listening on port 51386
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130782264	geckodriver	INFO	Listening on 127.0.0.1:51452
+1618130785352	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileXhRLGy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130795522	Marionette	INFO	Listening on port 51460
+1618130796021	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130802036	Marionette	INFO	Stopped listening on port 51460
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 5300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130954853	geckodriver	INFO	Listening on 127.0.0.1:51581
+1618130957950	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileFRtRS9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618130965377	Marionette	INFO	Listening on port 51589
+1618130965955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618130973571	Marionette	INFO	Stopped listening on port 51589
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 7520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618130999494	geckodriver	INFO	Listening on 127.0.0.1:51657
+1618131002607	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileu77GzL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131009679	Marionette	INFO	Listening on port 51665
+1618131010077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618131016596	Marionette	INFO	Stopped listening on port 51665
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 14032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131061810	geckodriver	INFO	Listening on 127.0.0.1:51734
+1618131065000	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofile4gbES6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131072521	Marionette	INFO	Listening on port 51743
+1618131073013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618131079347	Marionette	INFO	Stopped listening on port 51743
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 10912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131559818	geckodriver	INFO	Listening on 127.0.0.1:51953
+1618131562955	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileWnAqqZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131569298	Marionette	INFO	Listening on port 51962
+1618131569395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618131575523	Marionette	INFO	Stopped listening on port 51962
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 13292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131937362	geckodriver	INFO	Listening on 127.0.0.1:52115
+1618131940448	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofiledYGcPW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131946370	Marionette	INFO	Listening on port 52123
+1618131946765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618131954408	Marionette	INFO	Stopped listening on port 52123
+[Parent 7288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131965903	geckodriver	INFO	Listening on 127.0.0.1:52191
+1618131969039	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileRhauFH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618131974444	Marionette	INFO	Listening on port 52199
+1618131974925	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618131982169	Marionette	INFO	Stopped listening on port 52199
+[Parent 11032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618131995091	geckodriver	INFO	Listening on 127.0.0.1:52270
+1618131998197	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileMfs255"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618132004551	Marionette	INFO	Listening on port 52278
+1618132004678	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618132012807	Marionette	INFO	Stopped listening on port 52278
+[Parent 9484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618132067166	geckodriver	INFO	Listening on 127.0.0.1:52348
+1618132070271	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofileuAQ4Bz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618132076879	Marionette	INFO	Listening on port 52356
+1618132077247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/reportt5CommodityDailyReport.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/reportt5CommodityDailyReport.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+[Parent 1452, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618132441636	Marionette	INFO	Stopped listening on port 52356
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages wconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618132444922	Marionette	INFO	Listening on port 52475
+1618132445847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+[Parent 14240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618132460346	Marionette	INFO	Stopped listening on port 52475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618132460875	geckodriver	INFO	Listening on 127.0.0.1:52550
+1618132464720	mozrunner::runner	INFO	Running command: "D:\\Programs\\Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LAPTOP~1\\AppData\\Local\\Temp\\rust_mozprofilevMf8PQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618132471928	Marionette	INFO	Listening on port 52559
+1618132472216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://agmarknet.gov.in/Scripts/jquery.jcarousel.js, line 726: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 13: ReferenceError: $ is not defined
+JavaScript error: https://agmarknet.gov.in/PriceAndArrivals/CommodityDailyStateWise.aspx, line 91: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/slider_script.js, line 11: ReferenceError: jQuery is not defined
+JavaScript error: https://agmarknet.gov.in/Scripts/script_1.js, line 21: ReferenceError: jQuery is not defined
+1618132477837	Marionette	INFO	Stopped listening on port 52559
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 1848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

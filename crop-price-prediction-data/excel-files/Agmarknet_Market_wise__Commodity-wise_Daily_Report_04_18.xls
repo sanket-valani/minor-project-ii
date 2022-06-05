@@ -1,0 +1,207 @@
+<div id="cphBody_DivExport" class="textmode">
+        <div>
+	<table class="tableagmark_new" cellspacing="0" rules="all" align="center" border="1" id="cphBody_gridRecords" style="color:Black;background-color:White;border-color:#266606;border-style:Double;border-collapse:collapse;">
+		<tr style="color:#266606;border-color:#266606;">
+			<th scope="col" style="color:#214C5B;border-color:#266606;">Market</th><th scope="col" style="color:#214C5B;border-color:#266606;">Arrivals</th><th scope="col">Unit of Arrivals</th><th scope="col" style="color:#214C5B;border-color:#266606;">Variety</th><th scope="col" style="color:#214C5B;border-color:#266606;">Minimum Prices</th><th scope="col" style="color:#214C5B;border-color:#266606;">Maximum Prices</th><th scope="col" style="color:#214C5B;border-color:#266606;">Modal  Prices</th><th scope="col">Unit of Price</th>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">  </td>
+		</tr><tr style="background-color:#ffd747;">
+			<td align="center" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:550px;white-space:nowrap;">Group:Cereals</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Bajra(Pearl Millet/Cumbu)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1800</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td align="right" style="border-color:#266606;width:80px;">2100</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Khambhat(Grain Market)</td><td align="right" style="border-color:#266606;width:80px;">0.2</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1210</td><td align="right" style="border-color:#266606;width:80px;">1250</td><td align="right" style="border-color:#266606;width:80px;">1230</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Jowar(Sorghum)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1700</td><td align="right" style="border-color:#266606;width:80px;">2300</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td align="right" style="border-color:#266606;width:80px;">2100</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Maize</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1600</td><td align="right" style="border-color:#266606;width:80px;">1800</td><td align="right" style="border-color:#266606;width:80px;">1700</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1700</td><td align="right" style="border-color:#266606;width:80px;">1600</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Wheat</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">2400</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Meghraj</td><td align="right" style="border-color:#266606;width:80px;">NR</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1725</td><td align="right" style="border-color:#266606;width:80px;">1600</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Meghraj(Radlavada)</td><td align="right" style="border-color:#266606;width:80px;">NR</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Lokwan</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1725</td><td align="right" style="border-color:#266606;width:80px;">1600</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">  </td>
+		</tr><tr style="background-color:#ffd747;">
+			<td align="center" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:550px;white-space:nowrap;">Group:Fibre Crops</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Cotton</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">5400</td><td align="right" style="border-color:#266606;width:80px;">5200</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">5400</td><td align="right" style="border-color:#266606;width:80px;">5200</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">  </td>
+		</tr><tr style="background-color:#ffd747;">
+			<td align="center" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:550px;white-space:nowrap;">Group:Oil Seeds</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Castor Seed</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">3800</td><td align="right" style="border-color:#266606;width:80px;">4200</td><td align="right" style="border-color:#266606;width:80px;">4000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">3500</td><td align="right" style="border-color:#266606;width:80px;">4300</td><td align="right" style="border-color:#266606;width:80px;">3900</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">  </td>
+		</tr><tr style="background-color:#ffd747;">
+			<td align="center" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:550px;white-space:nowrap;">Group:Pulses</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Arhar (Tur/Red Gram)(Whole)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar</td><td align="right" style="border-color:#266606;width:80px;">0.1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">5800</td><td align="right" style="border-color:#266606;width:80px;">5400</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Jambusar(Kaavi)</td><td align="right" style="border-color:#266606;width:80px;">1</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">5800</td><td align="right" style="border-color:#266606;width:80px;">5400</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">  </td>
+		</tr><tr style="background-color:#ffd747;">
+			<td align="center" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:550px;white-space:nowrap;">Group:Vegetables</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Bhindi(Ladies Finger)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">2.07</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Bhindi</td><td align="right" style="border-color:#266606;width:80px;">1325</td><td align="right" style="border-color:#266606;width:80px;">3125</td><td align="right" style="border-color:#266606;width:80px;">2900</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.04</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Bhindi</td><td align="right" style="border-color:#266606;width:80px;">1800</td><td align="right" style="border-color:#266606;width:80px;">2100</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">0.5</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">4000</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">4500</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Bitter gourd</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.54</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Bitter Gourd</td><td align="right" style="border-color:#266606;width:80px;">2800</td><td align="right" style="border-color:#266606;width:80px;">4400</td><td align="right" style="border-color:#266606;width:80px;">4000</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Bottle gourd</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.63</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Bottle Gourd</td><td align="right" style="border-color:#266606;width:80px;">650</td><td align="right" style="border-color:#266606;width:80px;">1950</td><td align="right" style="border-color:#266606;width:80px;">1775</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Brinjal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">3.15</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Brinjal</td><td align="right" style="border-color:#266606;width:80px;">600</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1275</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Cabbage</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">9.99</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cabbage</td><td align="right" style="border-color:#266606;width:80px;">425</td><td align="right" style="border-color:#266606;width:80px;">875</td><td align="right" style="border-color:#266606;width:80px;">700</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.05</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cabbage</td><td align="right" style="border-color:#266606;width:80px;">700</td><td align="right" style="border-color:#266606;width:80px;">900</td><td align="right" style="border-color:#266606;width:80px;">800</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">0.5</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">400</td><td align="right" style="border-color:#266606;width:80px;">500</td><td align="right" style="border-color:#266606;width:80px;">450</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Carrot</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.45</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Carrot</td><td align="right" style="border-color:#266606;width:80px;">1100</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1325</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Cauliflower</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">3.06</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cauliflower</td><td align="right" style="border-color:#266606;width:80px;">1100</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">1775</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.03</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cauliflower</td><td align="right" style="border-color:#266606;width:80px;">1700</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">1800</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">0.4</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1250</td><td align="right" style="border-color:#266606;width:80px;">1750</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Coriander(Leaves)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">1.17</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Coriander</td><td align="right" style="border-color:#266606;width:80px;">1100</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">1825</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.03</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Coriander</td><td align="right" style="border-color:#266606;width:80px;">700</td><td align="right" style="border-color:#266606;width:80px;">900</td><td align="right" style="border-color:#266606;width:80px;">800</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Cowpea(Veg)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.27</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cowpea (Veg)</td><td align="right" style="border-color:#266606;width:80px;">3350</td><td align="right" style="border-color:#266606;width:80px;">5550</td><td align="right" style="border-color:#266606;width:80px;">5150</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Cucumbar(Kheera)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.45</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Cucumbar</td><td align="right" style="border-color:#266606;width:80px;">600</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1325</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Drumstick</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.27</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Drumstick</td><td align="right" style="border-color:#266606;width:80px;">1225</td><td align="right" style="border-color:#266606;width:80px;">2375</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Ginger(Green)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.63</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Green Ginger</td><td align="right" style="border-color:#266606;width:80px;">1775</td><td align="right" style="border-color:#266606;width:80px;">2175</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.02</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Green Ginger</td><td align="right" style="border-color:#266606;width:80px;">4500</td><td align="right" style="border-color:#266606;width:80px;">5200</td><td align="right" style="border-color:#266606;width:80px;">4800</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Green Chilli</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">7.11</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Green Chilly</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">2900</td><td align="right" style="border-color:#266606;width:80px;">2700</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Baruch(Vagara)</td><td align="right" style="border-color:#266606;width:80px;">0.34</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1800</td><td align="right" style="border-color:#266606;width:80px;">2500</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.03</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Green Chilly</td><td align="right" style="border-color:#266606;width:80px;">2200</td><td align="right" style="border-color:#266606;width:80px;">2500</td><td align="right" style="border-color:#266606;width:80px;">2400</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Guar</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.45</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Gwar</td><td align="right" style="border-color:#266606;width:80px;">2800</td><td align="right" style="border-color:#266606;width:80px;">3500</td><td align="right" style="border-color:#266606;width:80px;">3250</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.02</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Gwar</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">6000</td><td align="right" style="border-color:#266606;width:80px;">5500</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">0.4</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td align="right" style="border-color:#266606;width:80px;">6000</td><td align="right" style="border-color:#266606;width:80px;">5500</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Indian Beans (Seam)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.36</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Indian Beans (Seam)</td><td align="right" style="border-color:#266606;width:80px;">2800</td><td align="right" style="border-color:#266606;width:80px;">3500</td><td align="right" style="border-color:#266606;width:80px;">3250</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Lemon</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.72</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Lemon</td><td align="right" style="border-color:#266606;width:80px;">5150</td><td align="right" style="border-color:#266606;width:80px;">7350</td><td align="right" style="border-color:#266606;width:80px;">7125</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Damnagar</td><td align="right" style="border-color:#266606;width:80px;">0.03</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Lemon</td><td align="right" style="border-color:#266606;width:80px;">4500</td><td align="right" style="border-color:#266606;width:80px;">5200</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">0.35</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">10000</td><td align="right" style="border-color:#266606;width:80px;">11500</td><td align="right" style="border-color:#266606;width:80px;">11000</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Methi(Leaves)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.18</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Methi</td><td align="right" style="border-color:#266606;width:80px;">1700</td><td align="right" style="border-color:#266606;width:80px;">2600</td><td align="right" style="border-color:#266606;width:80px;">2375</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Onion Green</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.27</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Onion Green</td><td align="right" style="border-color:#266606;width:80px;">3450</td><td align="right" style="border-color:#266606;width:80px;">5050</td><td align="right" style="border-color:#266606;width:80px;">4650</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Pegeon Pea (Arhar Fali)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">4.05</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Pigeon Pea (Arhar Fali)</td><td align="right" style="border-color:#266606;width:80px;">3650</td><td align="right" style="border-color:#266606;width:80px;">5250</td><td align="right" style="border-color:#266606;width:80px;">5000</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Pointed gourd (Parval)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.45</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Pointed gourd (Parval)</td><td align="right" style="border-color:#266606;width:80px;">3125</td><td align="right" style="border-color:#266606;width:80px;">3750</td><td align="right" style="border-color:#266606;width:80px;">3500</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Raddish</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.18</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Raddish</td><td align="right" style="border-color:#266606;width:80px;">1100</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1325</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Ridge gourd(Tori)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.36</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Ridgeguard(Tori)</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">3125</td><td align="right" style="border-color:#266606;width:80px;">2900</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Surat Beans (Papadi)</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.54</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Surat Beans (Papadi)</td><td align="right" style="border-color:#266606;width:80px;">3350</td><td align="right" style="border-color:#266606;width:80px;">5550</td><td align="right" style="border-color:#266606;width:80px;">5150</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Tinda</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">0.63</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Tinda</td><td align="right" style="border-color:#266606;width:80px;">3350</td><td align="right" style="border-color:#266606;width:80px;">5550</td><td align="right" style="border-color:#266606;width:80px;">5150</td><td>Rs/Quintal</td>
+		</tr><tr style="background-color:#ffffc0;">
+			<td align="left" colspan="8" style="color:#266606;border-color:#266606;font-weight:bold;width:600px;white-space:nowrap;">Tomato</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Ankleshwar</td><td align="right" style="border-color:#266606;width:80px;">27.09</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Tomato</td><td align="right" style="border-color:#266606;width:80px;">525</td><td align="right" style="border-color:#266606;width:80px;">1425</td><td align="right" style="border-color:#266606;width:80px;">1200</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Bhavnagar</td><td align="right" style="border-color:#266606;width:80px;">30</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Tomato</td><td align="right" style="border-color:#266606;width:80px;">2000</td><td align="right" style="border-color:#266606;width:80px;">2500</td><td align="right" style="border-color:#266606;width:80px;">2250</td><td>Rs/Quintal</td>
+		</tr><tr>
+			<td align="left" style="border-color:#266606;width:180px;">Vankaner(Sub yard)</td><td align="right" style="border-color:#266606;width:80px;">1.5</td><td style="border-color:#266606;">Tonnes</td><td align="center" style="border-color:#266606;width:100px;white-space:nowrap;">Other</td><td align="right" style="border-color:#266606;width:80px;">1000</td><td align="right" style="border-color:#266606;width:80px;">1500</td><td align="right" style="border-color:#266606;width:80px;">1250</td><td>Rs/Quintal</td>
+		</tr>
+	</table>
+</div>
+    </div>

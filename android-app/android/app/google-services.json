@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708520967225",
+    "firebase_url": "https://bvm-minor-project-2-default-rtdb.firebaseio.com",
+    "project_id": "bvm-minor-project-2",
+    "storage_bucket": "bvm-minor-project-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708520967225:android:dfc33b43c2ddba427421e8",
+        "android_client_info": {
+          "package_name": "com.minorprojectii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708520967225-kq119mfo2cprokks2jqtaje411rjnuta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minorprojectii",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "708520967225-l1n3vuq9l11838b6stn6uu1r0avgsdu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58XtBRY92fXi4Z2rTGA5fTiEro2sEio8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708520967225-l1n3vuq9l11838b6stn6uu1r0avgsdu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
